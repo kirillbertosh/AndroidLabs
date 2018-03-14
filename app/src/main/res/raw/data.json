@@ -1,0 +1,90 @@
+{ "bridges": [
+	{
+		"name": "Millau Viaduct",
+		"height": "343 m",
+        "tableImage": "vm1",
+        "mainImage": "vm2",
+        "link": "https://en.wikipedia.org/wiki/Millau_Viaduct",
+		"info": "The first place in this rating was taken by Millau Viaduct in France. Viaduct Millau is a bridge construction, passing through the valley of the river Tarn near the town of Millau in southern France. Officially Viaduct Millau was opened on December 14, 2004, and recognized as one of the greatest engineering structures of all time. The bridge with a total length of 2,460 m consists of an eight-span steel roadway supported by eight steel columns of different heights, the highest of which is 343 meters."
+	},
+	{
+		"name": "Russky Bridge",
+		"height": "324 m",
+        "tableImage": "rb1",
+        "mainImage": "rb2",
+        "link": "https://en.wikipedia.org/wiki/Russky_Bridge",
+		"info": "The second place was taken by Russki Bridge. The Russky Bridge is a cable-stayed bridge in Vladivostok, Primorsky Krai, Russia. The bridge connects the Russky Island and the Muravyov-Amursky Peninsula sections of the city across the Eastern Bosphorus strait, and with a central span of 1,104 metres (3,622 feet) it is the longest cable-stayed bridge in the world. The Russky Bridge was originally built to serve the 2012 Asia-Pacific Economic Cooperation conference hosted at the Far Eastern Federal University campus on Russky Island. It was completed in July 2012 and opened by Prime Minister Dmitry Medvedev, and on September 3, 2012, the bridge was officially given its name."
+	},
+	{
+		"name": "Sutong Yangtze River Bridge",
+		"height": "306 m",
+        "tableImage": "syrb1",
+        "mainImage": "syrb",
+        "link": "https://en.wikipedia.org/wiki/Sutong_Yangtze_River_Bridge",
+		"info": "The third place was taken by Sutong Yangtze River Bridge. Cable bridge Sutun, whose height is 306 meters, was built for five years without one month from June 2003 to May 2008. The design was so large that it took another two months before the cars were let through the bridge. The official opening of the bridge, which connects the city of Changshu and Nantong District, took place on June 30, 2008. The total length of the bridge is 8206 meters."
+	},
+	{
+		"name": "Stonecutters Bridge",
+		"height": "298 m",
+        "tableImage": "sb1",
+        "mainImage": "sb2",
+        "link": "https://en.wikipedia.org/wiki/Stonecutters_Bridge",
+		"info": "The fourth place was taken by another China bridge Stonecutters Bridge bridge Hong Kong, like other Asian countries, boasts one of the highest bridges in the world. High-level cable-stayed bridge Stonecutters, whose height is 298 meters, is located on the fourth line in the list of the highest bridges in the world. The bridge is built on the Rambler channel and is a connecting link between the islands of Stonecutters and Qin-Yi. It is not difficult to guess that the island received its name in honor of one of the islands that connects. The bridge was opened on December 20, 2099, and its length is 1,596 meters."
+	},
+	{
+		"name": "Akashi Kaikyō Bridge",
+		"height": "282 m",
+        "tableImage": "akb1",
+        "mainImage": "akb2",
+        "link": "https://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge",
+		"info": "The fifth line of this rating was taken by Akashi Kaikyō Bridge. Being the longest and tallest suspension bridge in the world, the Akashi-Kaikyo bridge makes an indelible impression on anyone who has ever been to it at least once in his life. The bridge connects the Japanese cities of Awaji and Kobe. The bridge was opened in 1998, and its height reaches 282 meters. It should be noted that the length of the central span between neighboring pylons is almost two kilometers (1991 meters), and its total length is 3911 meters."
+	},
+	{
+		"name": "Yi Sun-sin Bridge",
+		"height": "270 m",
+        "tableImage": "yssb1",
+        "mainImage": "yssb2",
+        "link": "https://en.wikipedia.org/wiki/Yi_Sun-sin_Bridge",
+		"info": "The sixth place in our rating was taken by Yi Sun-sin Bridge. Despite the fact that in the rating there are four bridges from China, in Korea there is only one and it is above three of the four Chinese. The Lee Songshin Bridge, named after one of the Korean generals, was completed in 2012 and is located in the south of South Korea. Its height is 270 meters. This suspension bridge is the sixth in the ranking of the highest bridges in the world and is a connecting channel between the island of Kozhe and the cities of Masan and Changwon. The length of the bridge is 2260 meters."
+	},
+	{
+		"name": "Jingyue Yangtze River Bridge",
+		"height": "265 m",
+		"tableImage": "jb1",
+		"mainImage": "jb2",
+		"link": "https://en.wikipedia.org/wiki/Jingyue_Yangtze_River_Bridge",
+		"info": "In seventh place is another Chinese bridge across the Yangtze River. The bridge connecting the province of Yueyang and the province of Hueb in central China. The bridge was named Jingyue, and its height reaches 265 meters. The total length of the bridge is 5419 meters. This project was commissioned in 2010, in June. It should be noted that this Chinese bridge is one of the ten largest cable-stayed bridges on the planet.The bridge connects the northern bank of the Yangtze River to the Jianli County of Jingzhou City District with the southern shore of the Yunxi District of Yueyang City District. The bridge is represented by a two-pylon cable bridge with a length of the main span of 816 m, which is replaced on both sides by sections of beam construction and two bridge approaches on both sides."
+	},
+	{
+		"name": "Great Belt Fixed Link",
+		"height": "254 m",
+        "tableImage": "gbfl1",
+        "mainImage": "gbfl2",
+        "link": "https://en.wikipedia.org/wiki/Great_Belt_Fixed_Link",
+		"info": "The eighth line of this rating was taken by a bridge located in Denmark. Great Belt, it was this name that got the Danish bridge, which crosses the strait of the same name, connects the islands of Zealand and Fyn in the Scandinavian kingdom. Every day an average of 27,600 vehicles are moving along it. The height of the bridge is 254 meters. Its span, which is 1624 meters, is the third in the world in length, and, in general, the length of the bridge is 6790 meters"
+	},
+	{
+		"name": "Zhongzhou Yangtze River Bridge",
+		"height": "247 m",
+        "tableImage": "zcb1",
+        "mainImage": "zcb2",
+        "link": "https://en.wikipedia.org/wiki/Zhongzhou_Yangtze_River_Bridge",
+		"info": "The ninth place in the ranking of the world's tallest bridges is occupied by another cable-stayed (suspension) bridge in China, which also runs through the Yangtze River, though slightly elsewhere, in Zhongxian Province. The construction of this bridge took place from 2005 to 2009, which also amounts to a period of 4 years. The bridge is called Zhongzhou, and its height is 247.5 meters, and the total duration is 2174 meters."
+	},
+	{
+		"name": "Jiujiang Yangtze River Expressway Bridge",
+		"height": "242 m",
+        "tableImage": "jyre1",
+        "mainImage": "jyre2",
+        "link": "https://en.wikipedia.org/wiki/Jiujiang_Yangtze_River_Expressway_Bridge",
+		"info": "On the tenth position is the Jiujiang Yangtze River Expressway located in China. This bridge, which is laid through the valley of the Yangtze River, was built four years (from September 2009 to October 2013). Its height is 242 meters. It is also worth noting that this bridge, in addition to getting into the top 10, is also one of the longest cable-stayed bridges in the world. With the longest span between pylons equal to 818 meters, is one of the longest cable-stayed bridges in the world. Its total length is 1405 meters."
+	},
+	{
+		"name": "Baluarte Bridge",
+		"height": "403 m",
+        "tableImage": "bb1",
+        "mainImage": "bb2",
+        "link": "https://en.wikipedia.org/wiki/Baluarte_Bridge",
+		"info": "Very often, speaking of the highest bridges in the world, the bridge-record holder Baluarte Bridge, which was erected in Mexico in 2012, is mentioned. This bridge is the connecting link between the states of Mazatlan and Durango with the state of Sinaloa, which is located in the north-west of the country. The height of the bridge is more than 400 meters, and in order to cross it from one end to the other it is necessary to overcome the distance of 1124 meters. It is worth noting that this bridge is not always included in the rating of the highest bridges in the world, as long as it is pedestrian. Nevertheless, the government of the country has plans to put cars on it in the near future."
+	}
+]}
